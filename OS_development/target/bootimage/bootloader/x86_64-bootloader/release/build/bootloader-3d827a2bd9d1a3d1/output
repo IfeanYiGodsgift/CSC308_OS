@@ -1,0 +1,7 @@
+cargo:rerun-if-changed=C:\Users\chukw\OneDrive\Documents\dr_pius_rust\OS_development\Cargo.toml
+cargo:rustc-link-search=native=C:\Users\chukw\OneDrive\Documents\dr_pius_rust\OS_development\target\bootimage\bootloader\x86_64-bootloader\release\build\bootloader-3d827a2bd9d1a3d1\out
+cargo:rustc-link-lib=static=kernel_bin-barest
+cargo:rerun-if-env-changed=KERNEL
+cargo:rerun-if-env-changed=KERNEL_MANIFEST
+cargo:rerun-if-changed=\\?\C:\Users\chukw\OneDrive\Documents\dr_pius_rust\OS_development\target\x86_64-bootimage-barest\debug\barest
+cargo:rerun-if-changed=build.rs

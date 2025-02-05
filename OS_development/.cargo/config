@@ -1,0 +1,11 @@
+[build]
+target = "x86_64-bootimage-barest.json"
+
+[unstable]
+build-std = ["core", "compiler_builtins"] #memory functions are available in compiler_builtins
+build-std-features = ["compiler-builtins-mem"] #enable built-in memory functions because Rust compiler assumes that a certain set of built-in functions is available for all systems
+
+
+#make it easier to run with cargo run
+[target.'cfg(target_os = "none")']
+runner = "bootimage runner"
