@@ -1,0 +1,13 @@
+/home/david/Documents/os_boot/target/debug/deps/libgpt-77fdf9386d0587c9.rmeta: /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/lib.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/macros.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/disk.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/header.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/mbr.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/partition.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/partition_types.rs
+
+/home/david/Documents/os_boot/target/debug/deps/libgpt-77fdf9386d0587c9.rlib: /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/lib.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/macros.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/disk.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/header.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/mbr.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/partition.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/partition_types.rs
+
+/home/david/Documents/os_boot/target/debug/deps/gpt-77fdf9386d0587c9.d: /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/lib.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/macros.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/disk.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/header.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/mbr.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/partition.rs /home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/partition_types.rs
+
+/home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/lib.rs:
+/home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/macros.rs:
+/home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/disk.rs:
+/home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/header.rs:
+/home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/mbr.rs:
+/home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/partition.rs:
+/home/david/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/gpt-3.1.0/src/partition_types.rs:
